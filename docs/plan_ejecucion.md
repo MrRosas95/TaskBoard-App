@@ -3,9 +3,8 @@
 | Rol             | Responsable     | Entregables                             |
 |----------------|-----------------|-----------------------------------------|
 | Líder técnico  | Yeinsson        | Arquitectura, revisión de código        |
-| Desarrollador  | Estudiante A    | Módulo de tareas                        |
-| QA             | Estudiante B    | Pruebas funcionales y checklist         |
-| Documentador   | Estudiante C    | Manual de usuario y documentación       |
+| Desarrollador  | Fabian          | Módulo de tareas                        |
+| QA             | Nathalia        | Pruebas funcionales y checklist         |
 
 ### Fases
 1. Inicio
